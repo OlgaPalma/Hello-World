@@ -1,4 +1,4 @@
-![my_picture](...OlgaPalma/Hello-World/my_photo.jpeg)
+![other photo](...OlgaPalma/Hello-World/avvocato avocado.png)
 
 # A little insight into Olga Palma
 Hi everyone! My name is Olga and I am Founder of Ius Technology, a legaltech Company based in London, and Iustech, a legaltech startup based in Rome. This README will give you a bit of information about me!
