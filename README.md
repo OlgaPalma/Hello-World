@@ -8,5 +8,5 @@ After my graduation in Law cum laude, I earned two Masters of Laws (LL.M.) in Am
 I really love working in tech. I am on the mission of challenging the status quo in the legal field and democratize legal services!
 
 # More about me
-I practice meditation almost every day. I love walking in the nature and reading as much books as I can. 
+I practice meditation almost every day. I love walking through nature and reading as much books as I can. 
 
